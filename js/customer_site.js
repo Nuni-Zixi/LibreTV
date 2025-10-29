@@ -6,7 +6,7 @@ const CUSTOMER_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂',
-        detail: 'http://caiji.dyttzyapi.com'
+        detail: 'http://caiji.dyttzyapi.com',
     },
     ruyi: {
         api: 'http://cj.rycjapi.com/api.php/provide/vod',
